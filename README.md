@@ -1,2 +1,3 @@
-# cpp-debug
-Build/Run/Debug C++ Project (multiple source files) with Codespaces
+# Blackjack Project
+
+Starter code for development of a Blackjack game.
